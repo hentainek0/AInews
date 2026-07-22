@@ -1,0 +1,17 @@
+{
+  "wechat_webhook": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=c067f16e-9b8c-4dbb-b6b3-b4c2f948c02f",
+  "dingtalk_token": "",
+  "feishu_webhook": "",
+  "rss_sources": [
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/tag/ai/feed/"
+    },
+    {
+      "name": "VentureBeat AI",
+      "url": "https://venturebeat.com/category/ai/feed/"
+    }
+  ],
+  "article_count": 5,
+  "auto_translate": true
+}
