@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+newspaper3k
+nltk
+sumy
+python-docx
